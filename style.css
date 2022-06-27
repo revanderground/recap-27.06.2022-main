@@ -1,0 +1,16 @@
+/* @font-face {
+    font-family: BoardTable;
+    src: url("Skyfont.otf") format("opentype");
+  }
+  
+  .output{
+    font-family: BoardTable;
+  } */
+
+.output{
+    font-weight: bold;
+    font-size: 4rem;
+    text-align: center;
+    width: 900px;
+    margin: 0 auto;
+}
